@@ -28,4 +28,8 @@ zuul wiki: https://github.com/Netflix/zuul/wiki<br />
 ribbon wiki: https://github.com/Netflix/ribbon<br />
 feign wiki: https://github.com/Netflix/feign<br />
 
+##Useful links: 
+http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html   
+http://cloud.spring.io/spring-cloud-netflix/spring-cloud-netflix.html
+
 <!--- ![alt tag]() ---> 
